@@ -1,108 +1,71 @@
-<div style="text-align: center;">
-   <h1> Risa KOBAYASHI </h1>
+# [Start Bootstrap - Grayscale](https://startbootstrap.com/theme/grayscale/)
 
-Ph.D. student Civil Engineering
+[Grayscale](https://startbootstrap.com/theme/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
 
-Engineering Bldg.1 Room 324, 7-3-1, Hongo, Bunkyo-ku, Tokyo, 113-8656, JAPAN 
+## Preview
 
-E-mail: kobayashi@bin.t.u-tokyo.ac.jp, risa9039@gmail.com
+[![Grayscale Preview](https://assets.startbootstrap.com/img/screenshots/themes/grayscale.png)](https://startbootstrap.github.io/startbootstrap-grayscale/)
 
-</div>
+**[View Live Preview](https://startbootstrap.github.io/startbootstrap-grayscale/)**
 
----
+## Status
 
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-grayscale/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/startbootstrap-grayscale.svg)](https://www.npmjs.com/package/startbootstrap-grayscale)
+[![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-grayscale/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-grayscale)
+[![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-grayscale/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-grayscale?type=dev)
 
+## Download and Installation
 
-## Education
+To begin using this template, choose one of the following options to get started:
 
-**Research Fellowships for Young Scientist (DC)	**2020 - present
+- [Download the latest release on Start Bootstrap](https://startbootstrap.com/theme/grayscale/)
+- Install using npm: `npm i startbootstrap-grayscale`
+- Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-grayscale.git`
+- [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-grayscale)
 
-_Japan Society for the Promotion of Science (JSPS) _
+## Usage
 
-**Technical Assistant in Behavior in Networks Lab. 	**2019 - present
+### Basic Usage
 
-_The University of Tokyo, Japan, Adviser:  Prof. Eiji Hato_
+After downloading, simply edit the HTML and CSS files included with `dist` directory. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
-**Ph.D. Civil Engineering in Behavior in Networks Lab. 	**2019 - present
+### Advanced Usage
 
-_The University of Tokyo, Japan, Adviser:  Prof. Eiji Hato_
+Clone the source files of the theme and navigate into the theme's root directory. Run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `package.json` file to see which scripts are included.
 
-**M.S Civil Engineering in Behavior in Networks Lab.	**2017 - 2019
+#### npm Scripts
 
-_The University of Tokyo, Japan, with Adviser:  Prof. Eiji Hato_
+- `npm run build` builds the project - this builds assets, HTML, JS, and CSS into `dist`
+- `npm run build:assets` copies the files in the `src/assets/` directory into `dist`
+- `npm run build:pug` compiles the Pug located in the `src/pug/` directory into `dist`
+- `npm run build:scripts` brings the `src/js/scripts.js` file into `dist`
+- `npm run build:scss` compiles the SCSS files located in the `src/scss/` directory into `dist`
+- `npm run clean` deletes the `dist` directory to prepare for rebuilding the project
+- `npm run start:debug` runs the project in debug mode
+- `npm start` or `npm run start` runs the project, launches a live preview in your default browser, and watches for changes made to files in `src`
 
-**M.S in Urban Design Lab.	**2016 - 2017
+You must have npm installed in order to use this build environment.
 
-_The University of Tokyo, Japan, Adviser:  Prof. Yukio Nishimura_
+## Bugs and Issues
 
-**B.S in Urban Engineering	**2014 - 2016
+Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-grayscale/issues) here on GitHub or leave a comment on the [theme overview page at Start Bootstrap](https://startbootstrap.com/theme/grayscale/).
 
-_The University of Tokyo, Japan, Adviser:  Prof. Yukio Nishimura_
+## About
 
+Start Bootstrap is an open source library of free Bootstrap themes and templates. All of the free themes and templates on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
-## Teaching / Research Experience
+- <https://startbootstrap.com>
+- <https://twitter.com/SBootstrap>
 
-**Teaching Assistant, Department of  Urban Engineering, the University of Tokyo. 	**2016
+Start Bootstrap was created by and is maintained by **[David Miller](https://davidmiller.io/)**.
 
+- <https://davidmiller.io>
+- <https://twitter.com/davidmillerhere>
+- <https://github.com/davidtmiller>
 
+Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
-*   Supervised and assessed student presentations
-*   Delivered a lectures
+## Copyright and License
 
-**Research Assistant, Department of  Urban Engineering, the University of Tokyo. 	**2016 - 2017
-
-
-
-*   Project “Technical assistance for the protection of the damaged cultural heritage in Nepal” in National Research Institute for Cultural Properties, Tokyo (NRICPT)
-*   Investigated historical settlements
-*   Wrote annual report
-
-**Teaching Assistant, Department of  Urban Engineering, the University of Tokyo. 	**2018
-
-
-
-*   Supervised and assessed student presentations
-*   Delivered a lectures
-
-**Workshop Assistant, Strategic International Collaborative Research Program (SICORP) in JST	**2018
-
-
-
-*   Research subject “Integration of behavioral transportation models in a disaster management system”
-*   Designed Workshop 
-
-
-## Peer-reviewed Journal Papers
-
-
-
-1. Risa Kobayashi, Eiji Hato：A Dynamic Land-owning Pattern Choice Model with Bellman Equation, Journal of the City Planning Institute of Japan, 2020, Volume 55, Issue 3, Pages 674-681.
-2. Risa Kobayashi, Eiji Hato：A Land-owning Pattern Choice Model with EM algorithm, Journal of the City Planning Institute of Japan, 2019, Volume 54, Issue 3, Pages 1245-1252.
-3. Risa Kobayashi, Eiji Hato：An analysis of the relationship between turnover and the spacial transformation by transition of the land situations and the type of landownership, Journal of the City Planning Institute of Japan, 2018, Volume 53, Issue 3, Pages 251-258.
-
-
-## Conferences and presentations
-
-
-
-1. Risa Kobayashi, Eiji Hato：A Dynamic Land-owning Pattern Choice Model with Bellman Equation, 55th The Annual Conference of The City Planning Institute of Japan, Online, Japan, Nov 2020.
-2. Risa Kobayashi, Eiji Hato：A Land-owning Pattern Choice Model with EM algorithm, 54th The Annual Conference of The City Planning Institute of Japan, Yokohama, Japan, Nov 2019.
-3. Risa Kobayashi, Eiji Hato：An analysis of the relationship between turnover and the spacial transformation by transition of the land situations and the type of landownership, 53th The Annual Conference of The City Planning Institute of Japan, Osaka, Japan, Nov 2018.
-
-
-## Grants
-
-**Grant-in-Aid for JSPS Research Fellow	**2020-2022
-
-
-
-*   Research subject “The Mechanism of the Formation of Urban Space using Dynamic Land-owning Model”
-*   Japan Society for the Promotion of Science (JSPS)
-
-
-## Professional associations
-
-
-
-*   Student member of The City Planning Institute of Japan.
-*   IEEE student member.
+Copyright 2013-2021 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-grayscale/blob/master/LICENSE) license.
